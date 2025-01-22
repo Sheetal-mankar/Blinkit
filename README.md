@@ -14,9 +14,7 @@ A fully responsive front-end project inspired by Blinkit, an online grocery deli
 - *CSS*
 
 ## Installation
-1. Clone the repository:
-   bash
-   git clone https://github.com/yourusername/blinkit-clone.git
+1. Clone the repository
    
 2. Navigate to the project directory:
    bash
